@@ -15,6 +15,14 @@ In order for the plugin to work, you must have the following installed:
 3) Restart your server, or change the map.
 
 
+# Config
+The config is created automatically in the same place where the dll is located
+```
+3070923343 //fy_pool_day 
+3070212801 //Cobblestone 2015
+```
+
+
 ## Known Bugs & Issues
 - None.
 
